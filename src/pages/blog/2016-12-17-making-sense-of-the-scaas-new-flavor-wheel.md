@@ -11,6 +11,8 @@ tags:
   - tasting
 ---
 ![flavor wheel](/img/FB_IMG_16225972534188976.jpg)
+</src/pages/about/test.php>
+(</src/pages/about/test.php>) </src/pages/about/test.php>p
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
