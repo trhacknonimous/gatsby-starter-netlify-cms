@@ -5,7 +5,7 @@ image: /img/fb_img_16225972231762012.jpg
 heading: "Anonymous "
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: anonymous 
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
