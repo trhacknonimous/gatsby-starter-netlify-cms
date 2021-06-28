@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+title: Anonymous are one
+image: /img/fb_img_16225972231762012.jpg
+heading: "Anonymous "
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
